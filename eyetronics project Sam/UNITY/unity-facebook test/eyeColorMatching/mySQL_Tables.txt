@@ -1,0 +1,29 @@
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `fb_friends`
+--
+
+CREATE TABLE IF NOT EXISTS `fb_friends` (
+  `fb_id`     bigint(20) NOT NULL,
+  `friend_id` bigint(20) NOT NULL,
+  `timestamp` int(11)    NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `fb_users`
+--
+
+CREATE TABLE IF NOT EXISTS `fb_users` (
+  `id`          int(11)      NOT NULL auto_increment,
+  `fb_id`       bigint(20)   NOT NULL,
+  `f_name`      varchar(32)  NOT NULL,
+  `pic_url`     varchar(256) NOT NULL,
+  `score`       int(11)      NOT NULL,
+  `is_app_user` int(11)      NOT NULL,
+  `timestamp`   int(11)      NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;

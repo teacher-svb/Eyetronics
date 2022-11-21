@@ -1,0 +1,10 @@
+C:\Users\Sam Van Battel\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sam Van Battel\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sam Van Battel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam Van Battel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sam Van Battel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sam Van Battel\projects\SavaB\DropBox\My Dropbox\eyetronics\Visual Studio\image-masking\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sam Van Battel\projects\SavaB\DropBox\My Dropbox\eyetronics\Visual Studio\image-masking\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sam Van Battel\projects\SavaB\DropBox\My Dropbox\eyetronics\Visual Studio\image-masking\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sam Van Battel\projects\SavaB\DropBox\My Dropbox\eyetronics\Visual Studio\image-masking\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sam Van Battel\projects\SavaB\DropBox\My Dropbox\eyetronics\Visual Studio\image-masking\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
